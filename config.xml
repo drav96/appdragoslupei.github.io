@@ -1,5 +1,5 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.phonegap.helloworld" version="1.0.0">
-  <name>calculator</name>
+  <name>ds</name>
   <description>Hello World sample application that responds to the deviceready event.</description>
   <author href="http://phonegap.com" email="support@phonegap.com">PhoneGap Team</author>
   <content src="index.html"/>
@@ -27,10 +27,10 @@
   <plugin name="cordova-plugin-whitelist" source="npm"/>
   <icon src="icon.png"/>
   <platform name="android">
-    <icon src="www/Calculator.ico" density="ldpi"/>
-    <icon src="www/Calculator.ico" density="mdpi"/>
-    <icon src="www/Calculator.ico" density="hdpi"/>
-    <icon src="www/Calculator.ico" density="xhdpi"/>
+    <icon src="www/res/icon/android/drawable-ldpi-icon.png" density="ldpi"/>
+    <icon src="www/res/icon/android/drawable-mdpi-icon.png" density="mdpi"/>
+    <icon src="www/res/icon/android/drawable-hdpi-icon.png" density="hdpi"/>
+    <icon src="www/res/icon/android/drawable-xhdpi-icon.png" density="xhdpi"/>
     <icon src="www/res/icon/android/drawable-xxhdpi-icon.png" density="xxhdpi"/>
     <icon src="www/res/icon/android/drawable-xxxhdpi-icon.png" density="xxxhdpi"/>
     <splash src="www/res/screen/android/drawable-land-ldpi-screen.png" density="land-ldpi"/>
