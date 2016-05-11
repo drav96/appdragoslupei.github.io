@@ -27,10 +27,10 @@
   <plugin name="cordova-plugin-whitelist" source="npm"/>
   <icon src="icon.png"/>
   <platform name="android">
-    <icon src="www/res/icon/android/drawable-ldpi-icon.png" density="ldpi"/>
-    <icon src="www/res/icon/android/drawable-mdpi-icon.png" density="mdpi"/>
-    <icon src="www/res/icon/android/drawable-hdpi-icon.png" density="hdpi"/>
-    <icon src="www/res/icon/android/drawable-xhdpi-icon.png" density="xhdpi"/>
+    <icon src="www/Calculator.ico" density="ldpi"/>
+    <icon src="www/Calculator.ico" density="mdpi"/>
+    <icon src="www/Calculator.ico" density="hdpi"/>
+    <icon src="www/Calculator.ico" density="xhdpi"/>
     <icon src="www/res/icon/android/drawable-xxhdpi-icon.png" density="xxhdpi"/>
     <icon src="www/res/icon/android/drawable-xxxhdpi-icon.png" density="xxxhdpi"/>
     <splash src="www/res/screen/android/drawable-land-ldpi-screen.png" density="land-ldpi"/>
